@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CourseLists/static/css/main.537132b8.chunk.css",
+    "main.js": "/CourseLists/static/js/main.e17e1429.chunk.js",
+    "main.js.map": "/CourseLists/static/js/main.e17e1429.chunk.js.map",
+    "runtime~main.js": "/CourseLists/static/js/runtime~main.6c932ba2.js",
+    "runtime~main.js.map": "/CourseLists/static/js/runtime~main.6c932ba2.js.map",
+    "static/js/2.1c96ba98.chunk.js": "/CourseLists/static/js/2.1c96ba98.chunk.js",
+    "static/js/2.1c96ba98.chunk.js.map": "/CourseLists/static/js/2.1c96ba98.chunk.js.map",
+    "index.html": "/CourseLists/index.html",
+    "precache-manifest.a0fd8e15c8b799e51846e774713c01c3.js": "/CourseLists/precache-manifest.a0fd8e15c8b799e51846e774713c01c3.js",
+    "service-worker.js": "/CourseLists/service-worker.js",
+    "static/css/main.537132b8.chunk.css.map": "/CourseLists/static/css/main.537132b8.chunk.css.map"
+  }
+}
